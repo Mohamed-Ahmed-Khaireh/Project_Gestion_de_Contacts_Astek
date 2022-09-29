@@ -10,3 +10,9 @@ Le projet sera décomposé en plusieurs parties.
                        Capture d'écran de l'interface utilisateur : 
    
    ![](https://github.com/Mohamed-Ahmed-Khaireh/Algorithms-C-/blob/master/Capture%20d%E2%80%99%C3%A9cran%20(84).png)
+   
+   
+                          Diagramme de Classes du Project :
+
+
+   ![](https://github.com/Mohamed-Ahmed-Khaireh/Algorithms-C-/blob/master/Capture%20d%E2%80%99%C3%A9cran%20.png)
