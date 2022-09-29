@@ -15,4 +15,4 @@ Le projet sera décomposé en plusieurs parties.
                           Diagramme de Classes du Project :
 
 
-   ![](https://github.com/Mohamed-Ahmed-Khaireh/Algorithms-C-/blob/master/Capture%20d%E2%80%99%C3%A9cran%20.png)
+   ![](https://github.com/Mohamed-Ahmed-Khaireh/Algorithms-C-/blob/master/Capture%20d%E2%80%99%C3%A9cran%20(86).png)
